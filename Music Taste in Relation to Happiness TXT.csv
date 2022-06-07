@@ -1,0 +1,58 @@
+ID,What Genre(s) of music do you listen to ,How would you rate your relationship with your parents?,How would you rate your overall enjoyment with life?,How often do you listen to music within a week?,What are your pronouns,How old are you?,What is your relationship with your peers,Rate your stress level during a month,How much downtime do you have in a week,How often do you exercise?
+3,Pop;Hip Hop/Rap;Rock;Kpop/Jpop;Oldies;,8,7,15-30 hours,She/They,17,8,9,20-30 hours,Sometimes
+4,Country;Rock;Alternative;Classical;Oldies;Reggae/Soul;,8,8,15-30 hours,She/Her,17,7,5,20-30 hours,Sometimes
+5,Pop;Hip Hop/Rap;Rock;Metal;Alternative;Indie;Classical;Kpop/Jpop;Oldies;Reggae/Soul;Other;,7,4,50+ hours,She/Her,17,7,7,30-40 hours,Rarley
+6,Hip Hop/Rap;Pop;Rock;Alternative;Metal;Kpop/Jpop;,7,3,6-15 hours,She/Her,16,7,8,50-70 hours,Sometimes
+7,Jazz;Alternative;Indie;Hip Hop/Rap;,8,8,15-30 hours,She/Her,17,7,4,30-40 hours,Very often
+8,Hip Hop/Rap;Oldies;Indie;Alternative;,8,4,2-4 hours,He/Him,15,7,9,5-10 hours,Sometimes
+9,Rock;Metal;,1,2,50+ hours,He/They,16,9,7,20-30 hours,Rarley
+10,Kpop/Jpop;,3,1,6-15 hours,They/Them,17,6,10,1-5 hours,Rarley
+11,Rock;Other;Alternative;,10,10,15-30 hours,He/Him,16,8,3,5-10 hours,Sometimes
+12,Pop;Jazz;Rock;Metal;Indie;Classical;Other;Kpop/Jpop;,1,4,4-6 hours,He/Him,17,7,10,20-30 hours,Rarley
+13,Other;Pop;,10,8,6-15 hours,She/Her,19+,9,6,5-10 hours,Very often
+14,Pop;Rock;Metal;Alternative;Indie;Reggae/Soul;,7,5,4-6 hours,He/They,16,6,10,10-20 hours ,Sometimes
+15,Hip Hop/Rap;,9,9,15-30 hours,He/Him,14,8,7,20-30 hours,Often 
+16,Hip Hop/Rap;Country;Pop;,8,9,50+ hours,She/Her,17,7,5,10-20 hours,Very often
+17,Pop;Hip Hop/Rap;Indie;,6,8,50+ hours,She/Her,16,6,9,10-20 hours,Very often
+18,Pop;Hip Hop/Rap;Country;Alternative;Indie;Oldies;,7,5,15-30 hours,She/Her,16,9,10,10-20 hours ,Very often
+19,Pop;Hip Hop/Rap;Country;,4,4,6-15 hours,She/Her,16,7,10,1-5 hours,Very often
+20,Pop;Rock;,8,10,6-15 hours,She/Her,17,7,7,5-10 hours,Often
+21,Hip Hop/Rap;Kpop/Jpop;Other;,7,6,6-15 hours,He/Him,17,8,6,1-5 hours,Very often
+22,Oldies;Country;Rock;Metal;,10,8,2-4 hours,He/Him,19+,8,3,50-70 hours,Rarley
+23,Rock;Oldies;,8,9,4-6 hours,He/Him,16,7,4,20-30 hours,Often
+24,Alternative;Rock;Indie;Reggae/Soul;Oldies;,7,7,4-6 hours,She/Her,19+,7,7,5-10 hours,Rarley
+25,Pop;Rock;Indie;Oldies;Classical;,8,5,6-15 hours,She/Her,16,7,9,1-5 hours,Sometimes
+26,Pop;Rock;Alternative;Oldies;,9,8,6-15 hours,She/They,17,6,7,30-40 hours,Rarley
+27,Pop;Rock;Indie;,9,8,15-30 hours,She/Her,17,8,6,10-20 hours ,Sometimes
+28,Rock;,9,9,1-2 hours,He/Him,16,8,3,20-30 hours ,Rarley
+29,Metal;Indie;Oldies;Other;,10,7,50+ hours,He/Him,16,8,10,50-70 hours,Rarley
+30,Pop;Hip Hop/Rap;Alternative;Indie;Classical;Other;,8,5,15-30 hours,She/Her,18,7,6,30-40 hours,Sometimes
+31,Hip Hop/Rap;Rock;Alternative;Oldies;,9,6,30-50 hours,She/Her,19+,9,10,1-5 hours,Sometimes
+32,Pop;Country;Oldies;,9,9,15-30 hours,She/Her,17,8,6,20-30 hours,Often
+33,Hip Hop/Rap;Pop;Country;Alternative;,10,5,15-30 hours,She/Her,17,8,8,5-10 hours,Very often
+34,Hip Hop/Rap;Country;Jazz;Alternative;Indie;,8,6,15-30 hours,He/Him,17,7,9,20-30 hours,Sometimes
+35,Pop;Country;Rock;Oldies;Indie;Other;,8,7,50+ hours,She/Her,16,9,8,5-10 hours,Sometimes
+36,Country;Pop;,10,7,4-6 hours,She/Her,15,8,6,5-10 hours,Often
+37,Country;,4,7,4-6 hours,She/Her,15,7,6,5-10 hours,Often
+38,Hip Hop/Rap;Pop;,8,7,4-6 hours,She/Her,15,9,6,5-10 hours,Often
+39,Pop;,10,10,Never,She/Her,15,8,4,5-10 hours,Often
+40,Country;,10,10,30-50 hours,She/They,16,10,7,1-5 hours,Very often
+41,Hip Hop/Rap;Pop;,9,8,2-4 hours,She/Her,14,9,5,1-5 hours,Often
+42,Hip Hop/Rap;Oldies;Alternative;Pop;,10,10,4-6 hours,He/Him,14,9,2,none,Very often
+43,Rock;Pop;Indie;,6,1,50+ hours,They/Them,14,5,10,30-40 hours,Rarley
+44,Pop;Jazz;Hip Hop/Rap;Kpop/Jpop;,8,9,50+hours,She/Her,14,7,5,10-20 hours,Often
+45,Alternative;Indie;Classical;Other;,10,8,30-50 hours,He/Him,14,7,7,10-20 hours,Sometimes
+46,Metal;,4,5,50+hours,She/They,14,6,9,1-5 hours,Sometimes
+47,Country;Pop;Hip Hop/Rap;Oldies;Reggae/Soul;,4,8,15-30 hours,She/Her,15,8,8,20-30 hours,Sometimes
+48,Hip Hop/Rap;,10,10,30-50 hours,He/Him,15,10,2,5-10 hours,Sometimes
+49,Pop;Country;,9,8,15-30 hours,She/Her,15,9,5,50-70 hours,Sometimes
+50,Hip Hop/Rap;,10,9,30-50 hours,He/Him,14,10,1,10-20 hours,Often
+51,Indie;,9,8,15-30 hours,She/Her,15,7,4,20-30 hours,Often
+52,Hip Hop/Rap;Rock;Metal;Alternative;Indie;,1,3,50+ hours,She/They,14,7,10,5-10 hours,Rarley
+53,Oldies;Pop;Country;,9,9,2-4hours,She/Her,15,6,3,5-10 hours,Rarley
+54,Indie;Hip Hop/Rap;Pop;Oldies;,4,1,15-30 hours,She/Her,14,5,9,5-10 hours,Rarley
+55,Alternative;Indie;Hip Hop/Rap;,5,6,50+ hours,She/They,15,6,8,20-30 hours,Often
+56,Pop;Hip Hop/Rap;Rock;,8,6,6-15 hours,He/Him,17,7,4,30-40 hours,Very often
+57,Pop;,8,7,30-50 hours,She/Her,15,10,10,5-10 hours,Very often
+58,Pop;,4,4,4-6 hours,She/Her,18,10,10,none,Very often
+59,Rock;,10,4,50+ hours,She/Her,16,5,9,1-5 hours,Very often
